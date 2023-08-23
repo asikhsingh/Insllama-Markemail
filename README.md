@@ -18,8 +18,7 @@ Here are the slides used for the event: [Building with Instruction-Tuned LLMs](h
 
 Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 
-<img src="https://i.imgur.com/iXwCAad.png" 
-     height="auto"/>
+![Screenshot 2023-08-23 031917](https://github.com/asikhsingh/Insllama-Markemail/assets/110954682/fc2c85ad-9e91-42af-9d1d-9175a75dd70d)
 
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
@@ -28,8 +27,8 @@ Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 |  **Natural Language to SQL fine-tuning using Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA frame for Supervised fine-tuning on the Natural Language to SQL task  | [Here](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing)   |
 
 MarketMail Using BLOOMz Resources:
-<img src="https://i.imgur.com/iXwCAad.png" 
-     height="auto"/>
+![Screenshot 2023-08-23 031934](https://github.com/asikhsingh/Insllama-Markemail/assets/110954682/cb9c3169-55e2-4a69-9764-668db6705f3b)
+
 
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
