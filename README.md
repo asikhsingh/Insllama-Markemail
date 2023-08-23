@@ -1,11 +1,11 @@
-<p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png" 
+<!-- <p align = "center" draggable=”false” ><img src="https://user-images.githubusercontent.com/37101144/161836199-fdb0219d-0361-4988-bf26-48b0fad160a3.png" 
      width="200px"
      height="auto"/>
-</p>
+</p> -->
 
-# <h1 align="center" id="heading">:wave: Welcome to the Support Repository for the DeepLearningAI Event: Building with Instruction-Tuned LLMs: A Step-by-Step Guide</h1>
+# <h1 align="center" id="heading">:wave: Instruction-Tuned Llama and Marketing-Email Assistant</h1>
 
-Here are a collection of resources you can use to help fine-tune your LLMs, as well as create a few simple LLM powered applications!
+<!-- Here are a collection of resources you can use to help fine-tune your LLMs, as well as create a few simple LLM powered applications! -->
 
 ## 🗣️ Slides:
 
@@ -18,6 +18,9 @@ Here are the slides used for the event: [Building with Instruction-Tuned LLMs](h
 
 Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 
+<img src="https://i.imgur.com/iXwCAad.png" 
+     height="auto"/>
+
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
 |  **Instruct-tuning Leveraging QLoRA**  | Supervised fine-tuning! | [Here](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing) |
@@ -25,6 +28,8 @@ Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 |  **Natural Language to SQL fine-tuning using Lit-LLaMA**  | Using Lightning-AI's Lit-LLaMA frame for Supervised fine-tuning on the Natural Language to SQL task  | [Here](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing)   |
 
 MarketMail Using BLOOMz Resources:
+<img src="https://i.imgur.com/iXwCAad.png" 
+     height="auto"/>
 
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
